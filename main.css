@@ -12,3 +12,11 @@ header h3{
 main h1{
     font-size: 23;
 }
+
+.top-menu a {
+    color:chartreuse;
+}
+
+.top-menu a:hover, .top-menu a:focus {
+    color: yellow;
+}
