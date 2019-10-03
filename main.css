@@ -1,0 +1,14 @@
+/* the styles for all the elements */
+
+body {
+    font-family: sans-serif;
+}
+header h2{
+    font-size: 250%;
+}
+header h3{
+    font-size: 170;
+}
+main h1{
+    font-size: 23;
+}
